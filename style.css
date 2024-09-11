@@ -1,2 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
 
+:root {
+    --bg-color: #3D2C8D;
+    --primary-color: #916BBF;
+    --secondary-color: #C996CC;
